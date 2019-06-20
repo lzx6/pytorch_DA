@@ -6,10 +6,13 @@
 - python3
 # 数据
 **MNIST-->MNIST-M**
+
 ![mnist.png](https://upload-images.jianshu.io/upload_images/16293451-90bfebadcf59a2a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![mnist_m.png](https://upload-images.jianshu.io/upload_images/16293451-d043cb413d558632.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 框架
 ![dann.png](https://upload-images.jianshu.io/upload_images/16293451-32c144b8f522418f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![dann.png](https://upload-images.jianshu.io/upload_images/16293451-99fdda9f32c38081.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **说明**
@@ -21,7 +24,7 @@
 
 
 
-#结果
+# 结果
 
 
 ![result.png](https://upload-images.jianshu.io/upload_images/16293451-990607b88d760c5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
